@@ -1,21 +1,22 @@
 # Adventura
 ## Cíle
-Cílem tohoto semestrálního projektu je vytvořit hru adventuru v jazyce Prolog. 
-Ve hře se hlavní postava probudí v noci v parku, a vedle ní jsou noviny, kde jsou vidět slova 'již pátá obět' a 'společným prvkem je znamení zvěrokruhu'. 
-Postava uslyší kroky a snaží se utéct sériovému vrahu. Po cestě nalezne dýku, kteoru může vyzvednout. 
-Nakonec se potká se vrahem, kterého po výběru správné odpovědi, zabije.
+Cílem tohoto semestrálního projektu je vytvořit adventuru v jazyce Prolog.
+Tématem hry je útěk před sériovým vrahem (motiv dle případu Zodiac Killer). 
+Hráč výběrem kroků prochází mapou. Při vhodné kombinaci kroků vraha zabije. 
+V opačném případě se stane další obětí. Ve hře se hráč setkává s motivy zvěrokruhu.
+
 
 ## Prostory ve hře
 Ve hře se nachází několik různých prostorů:
-  * na začátku se hlavní postava nachází v parku 
-  * první cesta doleva, která vede do sochy s amforou
-  * první cesta doprava, která vede na počáteční místo
+  * na začátku se hlavní postava nachází, kde se probudí z bezvědomí a objeví článek v novinách o sériovém vrahovi 
+  * první cesta doleva, která vede zpět do parku sochy s amforou
+  * první cesta doleva, která vede zpět do parku sochy s amforou
   * první křižovatka, ze které vedou 3 cesty - rovně, doprava a doleva
-  * druhá odbočka doleva, kde se na cestě zjeví osoba, kterou hlavní postava má možnost zabít nebo pokračovat dál 
-  * druhá odbočka doprava, která vede na další křižovatku 
-  * cesta rovně od druhé odbočky, kde postava může vyzvednout dýku 
+  * druhá odbočka doleva, kde se na cestě zjeví osoba, kterou hlavní postava má možnost zabít nebo pokračovat dál
+  * druhá odbočka doprava, která vede na další křižovatku
+  * cesta rovně od druhé odbočky, kde postava může vyzvednout dýku s motivy zvěrokruhu
   * most, přes který je možné přejít, prozkoumat okolí nebo schovat se za nejbližší strom
-  * závěreční souboj, kde se postava potká se sériovým vrahem, který ji sleduje
+  * závěreční souboj, kde se postava potká se sériovým vrahem, kterým je sledována
   
   ## Průchod hrou 
   ### Nejrychlejší průchod
