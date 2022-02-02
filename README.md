@@ -10,7 +10,7 @@ V opačném případě se stane další obětí. Ve hře se hráč setkává s m
 Ve hře se nachází několik různých prostorů:
   * na začátku se hlavní postava nachází, kde se probudí z bezvědomí a objeví článek v novinách o sériovém vrahovi 
   * první cesta doleva, která vede zpět do parku sochy s amforou
-  * první cesta doleva, která vede zpět do parku sochy s amforou
+  * první cesta doprava, která vede na počáteční místo
   * první křižovatka, ze které vedou 3 cesty - rovně, doprava a doleva
   * druhá odbočka doleva, kde se na cestě zjeví osoba, kterou hlavní postava má možnost zabít nebo pokračovat dál
   * druhá odbočka doprava, která vede na další křižovatku
