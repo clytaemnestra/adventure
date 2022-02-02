@@ -30,3 +30,5 @@ Ve hře se nachází několik různých prostorů:
   a.
   a.
   ```
+### Ostatní průchody
+Ve hře je dohromady 10 tranzicí, 5 s 4 možnostmi a 5 s 3 možnostmi. 
