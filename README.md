@@ -30,7 +30,3 @@ Ve hře se nachází několik různých prostorů:
   a.
   a.
   ```
-  
-  
-  ### Ostatní průchody
-Ve hře je do hromady kolem 19683 různých průchodů hrou.  
