@@ -386,11 +386,9 @@ get_choice(_,C) :-
  write('(+ tečka)'),nl,
  read(C).
 
-% case knowledge base - user responses
+
 :- dynamic(stored_answer/2).
 
-% procedure to get rid of previous responses
-% without abolishing the dynamic declaration
 clear_stored_answers
  :- retract(stored_answer(_,_)),fail.
 clear_stored_answers.
