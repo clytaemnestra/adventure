@@ -32,5 +32,5 @@ Ve hře se nachází několik různých prostorů:
   
   
   ### Ostatní průchody
-  TBD
+Ve hře je do hromady 40 různých možností výběru, co znamená, že průběhů hrou je do hromady 8.159152832 E+47.
   
