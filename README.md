@@ -33,4 +33,4 @@ Ve hře se nachází několik různých prostorů:
   
   
   ### Ostatní průchody
-Ve hře je do hromady 9 místností, což znamená, že existuje 362880 různých průchodů hrou.  
+Ve hře je do hromady kolem 19683 různých průchodů hrou.  
